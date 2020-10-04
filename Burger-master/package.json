@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Dcoxmen/Burger.git"
+    "url": ""
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Dcoxmen/Burger/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/Dcoxmen/Burger#readme",
+  "homepage": "",
   "dependencies": {
     "body-parser": "^1.18.3",
     "express": "^4.16.4",
